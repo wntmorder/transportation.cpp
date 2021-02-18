@@ -1,4 +1,4 @@
-# Solo learn [Lesson 1]
+# Sololearn [Lesson 1]
 
 Программа для автобусной службы
 
