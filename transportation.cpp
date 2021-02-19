@@ -16,4 +16,5 @@ int main() {
    cout << s2 << BusCapacity - (Passengers % BusCapacity);
 
 return 0;
+
 }
